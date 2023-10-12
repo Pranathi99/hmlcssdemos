@@ -1,0 +1,18 @@
+h1{
+    color: saddlebrown;
+}
+
+#para1{
+    color:chocolate;
+}
+
+.fruits{
+    color: violet;
+    border: 1px solid black;
+}
+
+h1,h2,h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
